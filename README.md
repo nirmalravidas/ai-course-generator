@@ -16,7 +16,7 @@ Generate structured courses using IBM watsonx.ai and store them in IBM Cloudant.
 
 ## Copy github repo
 ```bash
-git clone https://github.com/IBM/ai-powered-saas-web-app.git
+git clone https://github.com/nirmalravidas/ai-course-generator.git
 ```
 
 ## Setup
